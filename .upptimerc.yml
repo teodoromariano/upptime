@@ -1,5 +1,5 @@
 # Change these first
-owner: POC Uptime sites # Your GitHub organization or username, where this repository lives
+owner: teodoromariano # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
