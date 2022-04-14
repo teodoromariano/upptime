@@ -22,10 +22,10 @@
     "url": "https://www.cascadeloans.com",
     "icon": "https://favicons.githubusercontent.com/www.cascadeloans.com",
     "slug": "cascade-loans-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 842,
@@ -34,6 +34,7 @@
     "timeMonth": 865,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2022-04-14": 1,
       "2022-03-17": 18,
       "2022-03-06": 16
     }
