@@ -4,10 +4,10 @@
     "url": "https://cascadeloans.dincloud.com/logon/LogonPoint/index.html",
     "icon": "https://favicons.githubusercontent.com/cascadeloans.dincloud.com",
     "slug": "cascade-loans-din-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
@@ -15,7 +15,9 @@
     "timeWeek": 286,
     "timeMonth": 251,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-10": 1
+    }
   },
   {
     "name": "Cascade Loans Web Site",
