@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-07-20": 1034,
+      "2023-07-20": 1047,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -183,19 +183,19 @@
     "url": "https://www.ask-cade2.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ask-cade2.com.ico",
     "slug": "ask-cade2-com-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 409,
-    "timeDay": 5323,
-    "timeWeek": 1595,
-    "timeMonth": 679,
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.96%",
+    "time": 408,
+    "timeDay": 3609,
+    "timeWeek": 1437,
+    "timeMonth": 664,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-07-20": 0,
+      "2023-07-20": 13,
       "2022-09-21": 174
     }
   }
