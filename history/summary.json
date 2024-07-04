@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "51.00%",
+    "uptime": "50.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 312,
+    "time": 310,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-03": 79,
+      "2024-07-04": 79,
+      "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -379,8 +380,7 @@
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
-      "2023-07-06": 1440,
-      "2023-07-05": 1440
+      "2023-07-06": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cascadeloans.com.ico",
     "slug": "cascade-loans-web-site",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1139,
-    "timeDay": 1692,
-    "timeWeek": 1392,
-    "timeMonth": 1253,
-    "timeYear": 1094,
+    "timeDay": 992,
+    "timeWeek": 1352,
+    "timeMonth": 1257,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 545,
-    "timeWeek": 685,
-    "timeMonth": 671,
-    "timeYear": 622,
+    "time": 624,
+    "timeDay": 890,
+    "timeWeek": 728,
+    "timeMonth": 673,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -431,8 +431,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 39,
-    "timeWeek": 74,
+    "timeDay": 89,
+    "timeWeek": 77,
     "timeMonth": 73,
     "timeYear": 67,
     "dailyMinutesDown": {}
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
-    "timeDay": 361,
-    "timeWeek": 460,
+    "timeDay": 535,
+    "timeWeek": 476,
     "timeMonth": 444,
-    "timeYear": 460,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
