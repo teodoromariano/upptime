@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "48.34%",
+    "uptime": "48.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 308,
+    "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-20": 82,
+      "2024-08-21": 83,
+      "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -379,8 +380,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
-      "2023-08-23": 1440,
-      "2023-08-22": 1440
+      "2023-08-23": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1082,
-    "timeWeek": 2346,
-    "timeMonth": 1138,
-    "timeYear": 1108,
+    "time": 1136,
+    "timeDay": 856,
+    "timeWeek": 1162,
+    "timeMonth": 1134,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 619,
-    "timeWeek": 679,
-    "timeMonth": 696,
+    "timeDay": 674,
+    "timeWeek": 672,
+    "timeMonth": 688,
     "timeYear": 634,
     "dailyMinutesDown": {}
   },
@@ -432,8 +432,8 @@
     "uptimeYear": "100.00%",
     "time": 66,
     "timeDay": 61,
-    "timeWeek": 61,
-    "timeMonth": 67,
+    "timeWeek": 62,
+    "timeMonth": 66,
     "timeYear": 68,
     "dailyMinutesDown": {}
   },
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 756,
-    "timeWeek": 816,
-    "timeMonth": 649,
-    "timeYear": 431,
+    "time": 473,
+    "timeDay": 821,
+    "timeWeek": 831,
+    "timeMonth": 657,
+    "timeYear": 433,
     "dailyMinutesDown": {}
   }
 ]
