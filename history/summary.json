@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "47.92%",
+    "uptime": "47.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 310,
+    "time": 315,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-28": 86,
+      "2024-08-29": 86,
+      "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -379,8 +380,7 @@
       "2023-09-03": 1440,
       "2023-09-02": 1440,
       "2023-09-01": 1440,
-      "2023-08-31": 1440,
-      "2023-08-30": 1440
+      "2023-08-31": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1107,
-    "timeDay": 1060,
-    "timeWeek": 953,
-    "timeMonth": 1157,
-    "timeYear": 1108,
+    "time": 1106,
+    "timeDay": 1112,
+    "timeWeek": 995,
+    "timeMonth": 1177,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 866,
-    "timeWeek": 650,
-    "timeMonth": 682,
-    "timeYear": 636,
+    "time": 625,
+    "timeDay": 841,
+    "timeWeek": 718,
+    "timeMonth": 700,
+    "timeYear": 635,
     "dailyMinutesDown": {}
   },
   {
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 97,
-    "timeWeek": 66,
-    "timeMonth": 66,
+    "timeDay": 83,
+    "timeWeek": 74,
+    "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {}
   },
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 976,
-    "timeWeek": 734,
-    "timeMonth": 728,
-    "timeYear": 439,
+    "time": 479,
+    "timeDay": 1056,
+    "timeWeek": 837,
+    "timeMonth": 757,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   }
 ]
