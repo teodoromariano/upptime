@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "46.77%",
+    "uptime": "46.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 96,
+      "2024-09-21": 95,
+      "2024-09-20": 1440,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -379,8 +380,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
-      "2023-09-23": 1440,
-      "2023-09-22": 1440
+      "2023-09-23": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1107,
-    "timeDay": 500,
-    "timeWeek": 1509,
-    "timeMonth": 1014,
-    "timeYear": 1092,
+    "timeDay": 1027,
+    "timeWeek": 867,
+    "timeMonth": 1020,
+    "timeYear": 1091,
     "dailyMinutesDown": {}
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 343,
-    "timeWeek": 616,
-    "timeMonth": 604,
-    "timeYear": 631,
+    "time": 625,
+    "timeDay": 810,
+    "timeWeek": 601,
+    "timeMonth": 608,
+    "timeYear": 630,
     "dailyMinutesDown": {}
   },
   {
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 24,
-    "timeWeek": 58,
-    "timeMonth": 58,
+    "timeDay": 92,
+    "timeWeek": 59,
+    "timeMonth": 59,
     "timeYear": 67,
     "dailyMinutesDown": {}
   },
@@ -466,11 +466,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 355,
-    "timeWeek": 682,
-    "timeMonth": 697,
-    "timeYear": 455,
+    "time": 494,
+    "timeDay": 972,
+    "timeWeek": 688,
+    "timeMonth": 702,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   }
 ]
