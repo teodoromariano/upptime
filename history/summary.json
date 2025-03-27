@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "39.09%",
+    "uptime": "39.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-26": 107,
+      "2025-03-27": 106,
+      "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -379,8 +380,7 @@
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
-      "2024-03-28": 1440,
-      "2024-03-27": 1440
+      "2024-03-28": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1011,
-    "timeDay": 941,
-    "timeWeek": 938,
-    "timeMonth": 861,
-    "timeYear": 986,
+    "time": 1002,
+    "timeDay": 385,
+    "timeWeek": 853,
+    "timeMonth": 849,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2024-11-23": 35
     }
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 1171,
-    "timeWeek": 1045,
-    "timeMonth": 824,
-    "timeYear": 708,
+    "time": 679,
+    "timeDay": 378,
+    "timeWeek": 950,
+    "timeMonth": 812,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 82,
-    "timeWeek": 78,
-    "timeMonth": 61,
+    "timeDay": 24,
+    "timeWeek": 70,
+    "timeMonth": 60,
     "timeYear": 66,
     "dailyMinutesDown": {}
   },
@@ -469,10 +469,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 600,
-    "timeWeek": 660,
-    "timeMonth": 572,
-    "timeYear": 586,
+    "timeDay": 281,
+    "timeWeek": 590,
+    "timeMonth": 562,
+    "timeYear": 585,
     "dailyMinutesDown": {}
   }
 ]
