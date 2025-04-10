@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "38.62%",
+    "uptime": "38.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-09": 108,
+      "2025-04-10": 108,
+      "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -379,8 +380,7 @@
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
-      "2024-04-11": 1440,
-      "2024-04-10": 1440
+      "2024-04-11": 1440
     }
   },
   {
@@ -394,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 997,
-    "timeDay": 639,
-    "timeWeek": 763,
-    "timeMonth": 834,
+    "time": 998,
+    "timeDay": 953,
+    "timeWeek": 844,
+    "timeMonth": 833,
     "timeYear": 976,
     "dailyMinutesDown": {
       "2024-11-23": 35
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 558,
-    "timeWeek": 785,
-    "timeMonth": 821,
-    "timeYear": 709,
+    "time": 684,
+    "timeDay": 1068,
+    "timeWeek": 890,
+    "timeMonth": 831,
+    "timeYear": 710,
     "dailyMinutesDown": {}
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 65,
-    "timeDay": 60,
-    "timeWeek": 60,
-    "timeMonth": 60,
+    "timeDay": 87,
+    "timeWeek": 69,
+    "timeMonth": 61,
     "timeYear": 65,
     "dailyMinutesDown": {}
   },
@@ -468,10 +468,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 427,
-    "timeWeek": 539,
-    "timeMonth": 545,
+    "time": 537,
+    "timeDay": 724,
+    "timeWeek": 599,
+    "timeMonth": 543,
     "timeYear": 587,
     "dailyMinutesDown": {}
   }
