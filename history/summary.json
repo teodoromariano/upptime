@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "36.77%",
+    "uptime": "36.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 116,
+      "2025-06-07": 115,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
@@ -379,8 +380,7 @@
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
-      "2024-06-08": 1440,
-      "2024-06-07": 1440
+      "2024-06-08": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 985,
-    "timeDay": 1356,
-    "timeWeek": 1049,
-    "timeMonth": 1090,
-    "timeYear": 948,
+    "time": 986,
+    "timeDay": 1302,
+    "timeWeek": 1100,
+    "timeMonth": 1099,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2024-11-23": 35
     }
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 708,
-    "timeDay": 783,
-    "timeWeek": 923,
-    "timeMonth": 910,
+    "time": 707,
+    "timeDay": 356,
+    "timeWeek": 801,
+    "timeMonth": 888,
     "timeYear": 738,
     "dailyMinutesDown": {}
   },
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 60,
-    "timeWeek": 84,
-    "timeMonth": 82,
+    "timeDay": 49,
+    "timeWeek": 66,
+    "timeMonth": 81,
     "timeYear": 65,
     "dailyMinutesDown": {}
   },
@@ -469,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
-    "timeDay": 465,
-    "timeWeek": 583,
-    "timeMonth": 581,
+    "timeDay": 240,
+    "timeWeek": 515,
+    "timeMonth": 567,
     "timeYear": 609,
     "dailyMinutesDown": {}
   }
