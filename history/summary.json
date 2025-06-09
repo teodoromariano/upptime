@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "36.71%",
+    "uptime": "36.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-08": 126,
+      "2025-06-09": 124,
+      "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
@@ -379,8 +380,7 @@
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
-      "2024-06-10": 1440,
-      "2024-06-09": 1440
+      "2024-06-10": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 988,
-    "timeDay": 1181,
-    "timeWeek": 1126,
-    "timeMonth": 1104,
-    "timeYear": 949,
+    "time": 989,
+    "timeDay": 1448,
+    "timeWeek": 1185,
+    "timeMonth": 1097,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2024-11-23": 35
     }
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 377,
-    "timeWeek": 703,
-    "timeMonth": 863,
-    "timeYear": 737,
+    "time": 709,
+    "timeDay": 1060,
+    "timeWeek": 696,
+    "timeMonth": 858,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 46,
+    "timeDay": 85,
     "timeWeek": 60,
     "timeMonth": 79,
-    "timeYear": 64,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   },
   {
@@ -469,10 +469,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 487,
-    "timeWeek": 505,
-    "timeMonth": 558,
-    "timeYear": 608,
+    "timeDay": 638,
+    "timeWeek": 506,
+    "timeMonth": 556,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   }
 ]
