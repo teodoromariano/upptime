@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "36.47%",
+    "uptime": "36.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 122,
+      "2025-06-17": 119,
+      "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -379,8 +380,7 @@
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
-      "2024-06-18": 1440,
-      "2024-06-17": 1440
+      "2024-06-18": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 995,
-    "timeDay": 1151,
-    "timeWeek": 1416,
-    "timeMonth": 1120,
-    "timeYear": 946,
+    "time": 997,
+    "timeDay": 1980,
+    "timeWeek": 1465,
+    "timeMonth": 1135,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2024-11-23": 35
     }
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 346,
-    "timeWeek": 748,
-    "timeMonth": 836,
+    "time": 712,
+    "timeDay": 1073,
+    "timeWeek": 771,
+    "timeMonth": 832,
     "timeYear": 739,
     "dailyMinutesDown": {}
   },
@@ -433,8 +433,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 23,
-    "timeWeek": 68,
+    "timeDay": 82,
+    "timeWeek": 71,
     "timeMonth": 81,
     "timeYear": 64,
     "dailyMinutesDown": {}
@@ -468,11 +468,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 306,
-    "timeWeek": 470,
-    "timeMonth": 539,
-    "timeYear": 609,
+    "time": 558,
+    "timeDay": 713,
+    "timeWeek": 506,
+    "timeMonth": 536,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   }
 ]
