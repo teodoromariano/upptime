@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "36.29%",
+    "uptime": "36.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 128,
+      "2025-06-23": 126,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -379,8 +380,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 998,
-    "timeDay": 888,
-    "timeWeek": 1246,
-    "timeMonth": 1166,
-    "timeYear": 949,
+    "time": 997,
+    "timeDay": 622,
+    "timeWeek": 1171,
+    "timeMonth": 1157,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2024-11-23": 35
     }
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 1208,
-    "timeWeek": 949,
-    "timeMonth": 865,
-    "timeYear": 744,
+    "time": 715,
+    "timeDay": 379,
+    "timeWeek": 954,
+    "timeMonth": 840,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -433,9 +433,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 163,
-    "timeWeek": 87,
-    "timeMonth": 87,
+    "timeDay": 49,
+    "timeWeek": 90,
+    "timeMonth": 83,
     "timeYear": 65,
     "dailyMinutesDown": {}
   },
@@ -469,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
-    "timeDay": 715,
-    "timeWeek": 628,
-    "timeMonth": 558,
+    "timeDay": 269,
+    "timeWeek": 622,
+    "timeMonth": 547,
     "timeYear": 613,
     "dailyMinutesDown": {}
   }
