@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "36.00%",
+    "uptime": "35.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 119,
+      "2025-07-03": 120,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -379,8 +380,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -391,14 +391,14 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
     "time": 988,
-    "timeDay": 1294,
-    "timeWeek": 998,
-    "timeMonth": 1145,
-    "timeYear": 940,
+    "timeDay": 1067,
+    "timeWeek": 1033,
+    "timeMonth": 1141,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2025-06-29": 26,
       "2025-06-25": 28,
@@ -417,8 +417,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 440,
-    "timeWeek": 763,
+    "timeDay": 702,
+    "timeWeek": 812,
     "timeMonth": 785,
     "timeYear": 745,
     "dailyMinutesDown": {}
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 46,
-    "timeWeek": 83,
-    "timeMonth": 74,
+    "timeDay": 94,
+    "timeWeek": 90,
+    "timeMonth": 75,
     "timeYear": 65,
     "dailyMinutesDown": {}
   },
@@ -471,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 353,
-    "timeWeek": 572,
-    "timeMonth": 546,
+    "timeDay": 513,
+    "timeWeek": 591,
+    "timeMonth": 545,
     "timeYear": 616,
     "dailyMinutesDown": {}
   }
