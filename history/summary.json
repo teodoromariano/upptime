@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "33.97%",
+    "uptime": "33.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-14": 111,
+      "2025-09-15": 113,
+      "2025-09-14": 1440,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -379,8 +380,7 @@
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
-      "2024-09-16": 1440,
-      "2024-09-15": 1440
+      "2024-09-16": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 956,
-    "timeDay": 842,
-    "timeWeek": 820,
-    "timeMonth": 904,
-    "timeYear": 907,
+    "time": 954,
+    "timeDay": 1017,
+    "timeWeek": 889,
+    "timeMonth": 898,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2025-08-08": 16,
       "2025-07-26": 21,
@@ -419,11 +419,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 800,
-    "timeWeek": 766,
-    "timeMonth": 923,
-    "timeYear": 787,
+    "time": 752,
+    "timeDay": 906,
+    "timeWeek": 813,
+    "timeMonth": 911,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -438,9 +438,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 92,
-    "timeWeek": 82,
-    "timeMonth": 95,
+    "timeDay": 78,
+    "timeWeek": 85,
+    "timeMonth": 92,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -473,10 +473,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 601,
-    "timeWeek": 561,
-    "timeMonth": 642,
+    "time": 593,
+    "timeDay": 643,
+    "timeWeek": 612,
+    "timeMonth": 639,
     "timeYear": 617,
     "dailyMinutesDown": {}
   }
