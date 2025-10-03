@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "33.51%",
+    "uptime": "33.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-02": 104,
+      "2025-10-03": 104,
+      "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -379,8 +380,7 @@
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
-      "2024-10-04": 1440,
-      "2024-10-03": 1440
+      "2024-10-04": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
-    "time": 955,
-    "timeDay": 1479,
-    "timeWeek": 1117,
-    "timeMonth": 914,
-    "timeYear": 911,
+    "time": 956,
+    "timeDay": 940,
+    "timeWeek": 1090,
+    "timeMonth": 916,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2025-09-22": 49,
       "2025-08-08": 16,
@@ -420,11 +420,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 1051,
-    "timeWeek": 743,
-    "timeMonth": 759,
-    "timeYear": 792,
+    "time": 753,
+    "timeDay": 303,
+    "timeWeek": 690,
+    "timeMonth": 741,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -439,9 +439,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 158,
-    "timeWeek": 80,
-    "timeMonth": 73,
+    "timeDay": 46,
+    "timeWeek": 70,
+    "timeMonth": 71,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -475,10 +475,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 715,
-    "timeWeek": 567,
-    "timeMonth": 548,
-    "timeYear": 605,
+    "timeDay": 225,
+    "timeWeek": 530,
+    "timeMonth": 539,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   }
 ]
