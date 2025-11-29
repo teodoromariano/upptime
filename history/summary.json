@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "32.13%",
+    "uptime": "32.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 113,
+      "2025-11-29": 113,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -379,8 +380,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.89%",
     "time": 897,
-    "timeDay": 850,
-    "timeWeek": 825,
-    "timeMonth": 695,
-    "timeYear": 853,
+    "timeDay": 1130,
+    "timeWeek": 842,
+    "timeMonth": 699,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-11-25": 31,
       "2025-11-24": 16,
@@ -434,10 +434,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 309,
-    "timeWeek": 864,
-    "timeMonth": 703,
+    "time": 760,
+    "timeDay": 1090,
+    "timeWeek": 909,
+    "timeMonth": 713,
     "timeYear": 795,
     "dailyMinutesDown": {}
   },
@@ -452,10 +452,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 22,
-    "timeWeek": 73,
-    "timeMonth": 63,
+    "time": 69,
+    "timeDay": 153,
+    "timeWeek": 87,
+    "timeMonth": 66,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -489,10 +489,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 598,
-    "timeDay": 175,
-    "timeWeek": 527,
-    "timeMonth": 444,
-    "timeYear": 555,
+    "timeDay": 506,
+    "timeWeek": 512,
+    "timeMonth": 438,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   }
 ]
