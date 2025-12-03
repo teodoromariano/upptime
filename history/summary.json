@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-02": 1019,
+      "2025-12-03": 117,
+      "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
@@ -379,8 +380,7 @@
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
-      "2024-12-04": 1440,
-      "2024-12-03": 1440
+      "2024-12-04": 1440
     }
   },
   {
@@ -390,14 +390,14 @@
     "slug": "cascade-loans-web-site",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "86.63%",
+    "uptimeDay": "89.85%",
     "uptimeWeek": "96.93%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.83%",
-    "time": 883,
-    "timeDay": 593,
-    "timeWeek": 802,
-    "timeMonth": 714,
+    "time": 882,
+    "timeDay": 614,
+    "timeWeek": 794,
+    "timeMonth": 712,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2025-12-02": 145,
@@ -439,10 +439,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 762,
-    "timeDay": 756,
-    "timeWeek": 880,
-    "timeMonth": 724,
-    "timeYear": 798,
+    "timeDay": 444,
+    "timeWeek": 832,
+    "timeMonth": 726,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   },
   {
@@ -457,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 48,
-    "timeWeek": 75,
-    "timeMonth": 67,
+    "timeDay": 24,
+    "timeWeek": 70,
+    "timeMonth": 66,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -493,10 +493,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 599,
-    "timeDay": 526,
-    "timeWeek": 493,
-    "timeMonth": 437,
-    "timeYear": 553,
+    "timeDay": 287,
+    "timeWeek": 449,
+    "timeMonth": 440,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   }
 ]
