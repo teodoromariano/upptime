@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "31.67%",
+    "uptime": "31.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-18": 118,
+      "2025-12-19": 121,
+      "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -379,8 +380,7 @@
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
-      "2024-12-20": 1440,
-      "2024-12-19": 1440
+      "2024-12-20": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "99.73%",
     "time": 894,
-    "timeDay": 744,
-    "timeWeek": 870,
-    "timeMonth": 771,
-    "timeYear": 848,
+    "timeDay": 930,
+    "timeWeek": 840,
+    "timeMonth": 792,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2025-12-15": 55,
       "2025-12-14": 40,
@@ -448,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 575,
-    "timeWeek": 795,
-    "timeMonth": 775,
-    "timeYear": 797,
+    "time": 765,
+    "timeDay": 1065,
+    "timeWeek": 827,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {}
   },
   {
@@ -467,9 +467,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 64,
-    "timeWeek": 95,
-    "timeMonth": 72,
+    "timeDay": 79,
+    "timeWeek": 98,
+    "timeMonth": 73,
     "timeYear": 71,
     "dailyMinutesDown": {}
   },
@@ -502,10 +502,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 540,
-    "timeWeek": 488,
-    "timeMonth": 460,
+    "time": 598,
+    "timeDay": 576,
+    "timeWeek": 497,
+    "timeMonth": 467,
     "timeYear": 544,
     "dailyMinutesDown": {}
   }
