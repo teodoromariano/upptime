@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-17": 540,
+      "2026-02-17": 877,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -388,19 +388,19 @@
     "url": "https://www.cascadeloans.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cascadeloans.com.ico",
     "slug": "cascade-loans-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "89.16%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "89.11%",
+    "uptimeWeek": "94.48%",
+    "uptimeMonth": "96.39%",
     "uptimeYear": "99.32%",
-    "time": 825,
-    "timeDay": 654,
-    "timeWeek": 872,
-    "timeMonth": 786,
-    "timeYear": 825,
+    "time": 824,
+    "timeDay": 601,
+    "timeWeek": 854,
+    "timeMonth": 785,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2026-02-17": 58,
+      "2026-02-17": 59,
       "2026-02-16": 98,
       "2026-02-15": 93,
       "2026-02-14": 142,
@@ -459,8 +459,7 @@
       "2025-11-11": 58,
       "2025-11-09": 20,
       "2025-11-08": 35,
-      "2025-11-01": 27,
-      "2025-10-30": 17
+      "2025-11-01": 27
     }
   },
   {
