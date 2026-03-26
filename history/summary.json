@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "29.62%",
+    "uptime": "29.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-25": 1253,
+      "2026-03-26": 168,
+      "2026-03-25": 1440,
       "2026-03-24": 1440,
       "2026-03-23": 1440,
       "2026-03-22": 1440,
@@ -379,8 +380,7 @@
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
-      "2025-03-27": 1440,
-      "2025-03-26": 1440
+      "2025-03-27": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "97.58%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "99.22%",
-    "time": 781,
-    "timeDay": 535,
-    "timeWeek": 627,
-    "timeMonth": 592,
-    "timeYear": 780,
+    "time": 782,
+    "timeDay": 810,
+    "timeWeek": 642,
+    "timeMonth": 598,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2026-03-25": 49,
       "2026-03-22": 122,
@@ -467,10 +467,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 784,
-    "timeWeek": 884,
-    "timeMonth": 708,
+    "time": 781,
+    "timeDay": 1007,
+    "timeWeek": 886,
+    "timeMonth": 724,
     "timeYear": 780,
     "dailyMinutesDown": {}
   },
@@ -486,9 +486,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 65,
-    "timeWeek": 65,
-    "timeMonth": 58,
+    "timeDay": 155,
+    "timeWeek": 76,
+    "timeMonth": 61,
     "timeYear": 73,
     "dailyMinutesDown": {}
   },
@@ -522,10 +522,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 484,
-    "timeWeek": 520,
-    "timeMonth": 458,
-    "timeYear": 519,
+    "timeDay": 664,
+    "timeWeek": 541,
+    "timeMonth": 467,
+    "timeYear": 520,
     "dailyMinutesDown": {}
   }
 ]
