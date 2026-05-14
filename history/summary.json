@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "28.70%",
+    "uptime": "28.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-13": 232,
+      "2026-05-14": 232,
+      "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
@@ -379,8 +380,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
-      "2025-05-15": 1440,
-      "2025-05-14": 1440
+      "2025-05-15": 1440
     }
   },
   {
@@ -392,12 +392,12 @@
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.05%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.01%",
-    "time": 793,
-    "timeDay": 1219,
-    "timeWeek": 772,
-    "timeMonth": 909,
+    "time": 792,
+    "timeDay": 699,
+    "timeWeek": 779,
+    "timeMonth": 899,
     "timeYear": 790,
     "dailyMinutesDown": {
       "2026-05-09": 225,
@@ -470,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
-    "timeDay": 1081,
-    "timeWeek": 573,
-    "timeMonth": 719,
-    "timeYear": 787,
+    "timeDay": 604,
+    "timeWeek": 620,
+    "timeMonth": 701,
+    "timeYear": 785,
     "dailyMinutesDown": {}
   },
   {
@@ -488,10 +488,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 75,
-    "timeDay": 445,
-    "timeWeek": 261,
-    "timeMonth": 119,
-    "timeYear": 80,
+    "timeDay": 259,
+    "timeWeek": 282,
+    "timeMonth": 122,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -524,9 +524,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 538,
-    "timeWeek": 446,
-    "timeMonth": 462,
+    "timeDay": 436,
+    "timeWeek": 485,
+    "timeMonth": 456,
     "timeYear": 515,
     "dailyMinutesDown": {}
   }
