@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "28.48%",
+    "uptime": "28.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 1200,
+      "2026-05-25": 257,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -379,8 +380,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "96.09%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.96%",
-    "time": 795,
-    "timeDay": 696,
-    "timeWeek": 822,
-    "timeMonth": 878,
-    "timeYear": 784,
+    "time": 796,
+    "timeDay": 648,
+    "timeWeek": 818,
+    "timeMonth": 870,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-01-26": 16,
       "2026-01-28": 181,
@@ -471,10 +471,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 987,
-    "timeWeek": 923,
-    "timeMonth": 724,
-    "timeYear": 783,
+    "timeDay": 845,
+    "timeWeek": 924,
+    "timeMonth": 715,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   },
   {
@@ -488,10 +488,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 529,
-    "timeWeek": 436,
-    "timeMonth": 234,
+    "time": 83,
+    "timeDay": 364,
+    "timeWeek": 441,
+    "timeMonth": 244,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -525,10 +525,10 @@
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 527,
-    "timeDay": 646,
+    "timeDay": 544,
     "timeWeek": 527,
-    "timeMonth": 462,
-    "timeYear": 512,
+    "timeMonth": 464,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2026-05-21": 211
     }
