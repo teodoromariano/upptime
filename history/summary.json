@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 843,
+      "2026-06-10": 1051,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -522,20 +522,20 @@
     "url": "https://www.ask-cade2.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ask-cade2.com.ico",
     "slug": "ask-cade2-com-home",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.96%",
-    "time": 525,
-    "timeDay": 262,
-    "timeWeek": 433,
-    "timeMonth": 469,
-    "timeYear": 509,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "85.55%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.92%",
+    "time": 524,
+    "timeDay": 219,
+    "timeWeek": 400,
+    "timeMonth": 460,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2026-05-21": 211,
-      "2026-06-10": 0
+      "2026-06-10": 208
     }
   }
 ]
