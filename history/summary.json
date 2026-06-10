@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "28.19%",
+    "uptime": "28.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 252,
+      "2026-06-10": 843,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -390,13 +390,13 @@
     "slug": "cascade-loans-web-site",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "70.98%",
-    "uptimeWeek": "80.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "83.28%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "98.59%",
     "time": 800,
-    "timeDay": 766,
-    "timeWeek": 774,
+    "timeDay": 952,
+    "timeWeek": 794,
     "timeMonth": 842,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -522,19 +522,20 @@
     "url": "https://www.ask-cade2.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ask-cade2.com.ico",
     "slug": "ask-cade2-com-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.96%",
     "time": 525,
-    "timeDay": 287,
-    "timeWeek": 461,
-    "timeMonth": 476,
+    "timeDay": 262,
+    "timeWeek": 433,
+    "timeMonth": 469,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-05-21": 211
+      "2026-05-21": 211,
+      "2026-06-10": 0
     }
   }
 ]
