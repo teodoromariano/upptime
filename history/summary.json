@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "27.91%",
+    "uptime": "27.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 11,
+      "2026-06-26": 249,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cascadeloans.com.ico",
     "slug": "cascade-loans-web-site",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "75.35%",
-    "uptimeMonth": "84.90%",
-    "uptimeYear": "98.02%",
+    "uptime": "99.54%",
+    "uptimeDay": "70.72%",
+    "uptimeWeek": "72.99%",
+    "uptimeMonth": "84.35%",
+    "uptimeYear": "97.98%",
     "time": 795,
-    "timeDay": 489,
-    "timeWeek": 770,
+    "timeDay": 363,
+    "timeWeek": 757,
     "timeMonth": 786,
     "timeYear": 771,
     "dailyMinutesDown": {
@@ -461,7 +461,7 @@
       "2026-06-23": 677,
       "2026-06-24": 351,
       "2026-06-25": 183,
-      "2026-06-26": 0
+      "2026-06-26": 239
     }
   },
   {
@@ -476,8 +476,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 774,
-    "timeWeek": 768,
+    "timeDay": 760,
+    "timeWeek": 758,
     "timeMonth": 791,
     "timeYear": 781,
     "dailyMinutesDown": {}
@@ -494,8 +494,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 300,
-    "timeWeek": 347,
+    "timeDay": 327,
+    "timeWeek": 340,
     "timeMonth": 341,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -512,8 +512,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 68,
-    "timeWeek": 116,
+    "timeDay": 32,
+    "timeWeek": 127,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {}
@@ -530,8 +530,8 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.92%",
     "time": 524,
-    "timeDay": 545,
-    "timeWeek": 502,
+    "timeDay": 643,
+    "timeWeek": 504,
     "timeMonth": 460,
     "timeYear": 505,
     "dailyMinutesDown": {
