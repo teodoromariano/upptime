@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 1418,
+      "2026-06-28": 258,
+      "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -379,8 +380,7 @@
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
-      "2025-06-29": 1440,
-      "2025-06-28": 1440
+      "2025-06-29": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cascadeloans.com.ico",
     "slug": "cascade-loans-web-site",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "70.80%",
-    "uptimeWeek": "70.96%",
-    "uptimeMonth": "82.69%",
-    "uptimeYear": "97.89%",
-    "time": 792,
-    "timeDay": 400,
-    "timeWeek": 700,
-    "timeMonth": 762,
+    "uptime": "99.51%",
+    "uptimeDay": "57.24%",
+    "uptimeWeek": "68.29%",
+    "uptimeMonth": "82.05%",
+    "uptimeYear": "97.84%",
+    "time": 791,
+    "timeDay": 294,
+    "timeWeek": 652,
+    "timeMonth": 736,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2026-03-04": 42,
@@ -459,7 +459,8 @@
       "2026-06-24": 351,
       "2026-06-25": 183,
       "2026-06-26": 545,
-      "2026-06-27": 421
+      "2026-06-27": 443,
+      "2026-06-28": 258
     }
   },
   {
@@ -473,11 +474,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 958,
-    "timeWeek": 735,
-    "timeMonth": 791,
-    "timeYear": 782,
+    "time": 791,
+    "timeDay": 307,
+    "timeWeek": 667,
+    "timeMonth": 760,
+    "timeYear": 780,
     "dailyMinutesDown": {}
   },
   {
@@ -492,9 +493,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 484,
-    "timeWeek": 339,
-    "timeMonth": 343,
+    "timeDay": 126,
+    "timeWeek": 295,
+    "timeMonth": 330,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -509,11 +510,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 125,
-    "timeWeek": 126,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 158,
+    "timeDay": 293,
+    "timeWeek": 149,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -527,11 +528,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.92%",
-    "time": 524,
-    "timeDay": 575,
-    "timeWeek": 493,
-    "timeMonth": 460,
-    "timeYear": 505,
+    "time": 523,
+    "timeDay": 225,
+    "timeWeek": 470,
+    "timeMonth": 452,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2026-05-21": 211,
       "2026-06-10": 208
