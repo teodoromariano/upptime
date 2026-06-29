@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "27.86%",
+    "uptime": "27.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-28": 1414,
+      "2026-06-29": 11,
+      "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -379,8 +380,7 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 1440,
-      "2025-06-29": 1440
+      "2025-06-30": 1440
     }
   },
   {
@@ -388,15 +388,15 @@
     "url": "https://www.cascadeloans.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cascadeloans.com.ico",
     "slug": "cascade-loans-web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "72.99%",
-    "uptimeWeek": "71.21%",
-    "uptimeMonth": "81.81%",
-    "uptimeYear": "97.83%",
+    "uptimeDay": "72.74%",
+    "uptimeWeek": "71.11%",
+    "uptimeMonth": "81.72%",
+    "uptimeYear": "97.82%",
     "time": 790,
-    "timeDay": 344,
-    "timeWeek": 663,
+    "timeDay": 676,
+    "timeWeek": 636,
     "timeMonth": 734,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -459,7 +459,8 @@
       "2026-06-25": 183,
       "2026-06-26": 545,
       "2026-06-27": 443,
-      "2026-06-28": 366
+      "2026-06-28": 392,
+      "2026-06-29": 11
     }
   },
   {
@@ -473,11 +474,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 307,
-    "timeWeek": 667,
-    "timeMonth": 760,
-    "timeYear": 781,
+    "time": 790,
+    "timeDay": 321,
+    "timeWeek": 624,
+    "timeMonth": 746,
+    "timeYear": 779,
     "dailyMinutesDown": {}
   },
   {
@@ -492,9 +493,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 126,
-    "timeWeek": 295,
-    "timeMonth": 330,
+    "timeDay": 105,
+    "timeWeek": 271,
+    "timeMonth": 323,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -509,11 +510,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 293,
-    "timeWeek": 149,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 162,
+    "timeDay": 223,
+    "timeWeek": 158,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -527,10 +528,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.92%",
-    "time": 523,
-    "timeDay": 225,
-    "timeWeek": 470,
-    "timeMonth": 452,
+    "time": 522,
+    "timeDay": 175,
+    "timeWeek": 433,
+    "timeMonth": 444,
     "timeYear": 503,
     "dailyMinutesDown": {
       "2026-05-21": 211,
