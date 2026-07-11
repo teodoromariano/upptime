@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "27.65%",
+    "uptime": "27.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 194,
+      "2026-07-11": 1239,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
@@ -391,12 +391,12 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.45%",
+    "uptimeWeek": "90.93%",
     "uptimeMonth": "81.92%",
     "uptimeYear": "97.49%",
     "time": 793,
     "timeDay": 756,
-    "timeWeek": 704,
+    "timeWeek": 654,
     "timeMonth": 716,
     "timeYear": 761,
     "dailyMinutesDown": {
@@ -505,9 +505,9 @@
     "url": "https://BE799583.ea.elliemae.net",
     "icon": "https://icons.duckduckgo.com/ip3/be799583.ea.elliemae.net.ico",
     "slug": "encompass-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -516,7 +516,9 @@
     "timeWeek": 221,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-11": 0
+    }
   },
   {
     "name": "Ask-cade2.com/home",
