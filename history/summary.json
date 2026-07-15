@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 1359,
+      "2026-07-15": 1417,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -398,7 +398,7 @@
     "timeDay": 785,
     "timeWeek": 721,
     "timeMonth": 734,
-    "timeYear": 758,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2026-03-25": 49,
       "2026-03-26": 25,
@@ -479,7 +479,7 @@
     "timeDay": 300,
     "timeWeek": 365,
     "timeMonth": 639,
-    "timeYear": 769,
+    "timeYear": 770,
     "dailyMinutesDown": {}
   },
   {
@@ -505,22 +505,22 @@
     "url": "https://BE799583.ea.elliemae.net",
     "icon": "https://icons.duckduckgo.com/ip3/be799583.ea.elliemae.net.ico",
     "slug": "encompass-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.98%",
-    "time": 192,
-    "timeDay": 295,
-    "timeWeek": 265,
-    "timeMonth": 187,
-    "timeYear": 192,
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.97%",
+    "time": 190,
+    "timeDay": 210,
+    "timeWeek": 251,
+    "timeMonth": 185,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2026-07-11": 50,
       "2026-07-12": 53,
       "2026-07-13": 16,
-      "2026-07-15": 0
+      "2026-07-15": 58
     }
   },
   {
@@ -538,7 +538,7 @@
     "timeDay": 369,
     "timeWeek": 324,
     "timeMonth": 424,
-    "timeYear": 494,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2026-05-21": 211,
       "2026-06-10": 208
