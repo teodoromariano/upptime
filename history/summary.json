@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "27.43%",
+    "uptime": "27.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 71,
+      "2026-07-24": 195,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -390,10 +390,10 @@
     "slug": "cascade-loans-web-site",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "88.74%",
+    "uptimeDay": "83.19%",
+    "uptimeWeek": "87.51%",
     "uptimeMonth": "85.68%",
-    "uptimeYear": "97.38%",
+    "uptimeYear": "97.36%",
     "time": 786,
     "timeDay": 579,
     "timeWeek": 696,
@@ -460,7 +460,7 @@
       "2026-07-21": 105,
       "2026-07-22": 213,
       "2026-07-23": 118,
-      "2026-07-24": 0
+      "2026-07-24": 124
     }
   },
   {
