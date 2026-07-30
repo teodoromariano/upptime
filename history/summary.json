@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cascadeloans.dincloud.com.ico",
     "slug": "cascade-loans-din-cloud",
     "status": "down",
-    "uptime": "27.34%",
+    "uptime": "27.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 605,
+      "2026-07-30": 5,
+      "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -379,8 +380,7 @@
       "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
-      "2025-07-31": 1440,
-      "2025-07-30": 1440
+      "2025-07-31": 1440
     }
   },
   {
@@ -392,12 +392,12 @@
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.87%",
-    "uptimeMonth": "88.11%",
+    "uptimeMonth": "88.35%",
     "uptimeYear": "97.29%",
     "time": 787,
-    "timeDay": 1254,
-    "timeWeek": 784,
-    "timeMonth": 760,
+    "timeDay": 352,
+    "timeWeek": 777,
+    "timeMonth": 761,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-04-21": 36,
@@ -473,11 +473,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 819,
-    "timeWeek": 575,
-    "timeMonth": 760,
-    "timeYear": 775,
+    "time": 786,
+    "timeDay": 1126,
+    "timeWeek": 695,
+    "timeMonth": 763,
+    "timeYear": 777,
     "dailyMinutesDown": {}
   },
   {
@@ -491,11 +491,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 335,
-    "timeWeek": 249,
-    "timeMonth": 269,
-    "timeYear": 130,
+    "time": 115,
+    "timeDay": 587,
+    "timeWeek": 317,
+    "timeMonth": 275,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -503,16 +503,16 @@
     "url": "https://BE799583.ea.elliemae.net",
     "icon": "https://icons.duckduckgo.com/ip3/be799583.ea.elliemae.net.ico",
     "slug": "encompass-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "89.09%",
+    "uptimeDay": "89.07%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.89%",
     "time": 196,
-    "timeDay": 297,
+    "timeDay": 256,
     "timeWeek": 229,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2026-07-11": 50,
@@ -522,7 +522,8 @@
       "2026-07-17": 138,
       "2026-07-23": 61,
       "2026-07-26": 67,
-      "2026-07-29": 157
+      "2026-07-29": 157,
+      "2026-07-30": 0
     }
   },
   {
@@ -537,9 +538,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 505,
-    "timeDay": 467,
-    "timeWeek": 365,
-    "timeMonth": 386,
+    "timeDay": 649,
+    "timeWeek": 400,
+    "timeMonth": 388,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2026-05-21": 211,
