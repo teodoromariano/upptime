@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 99,
+      "2026-08-26": 165,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -503,10 +503,10 @@
     "url": "https://BE799583.ea.elliemae.net",
     "icon": "https://icons.duckduckgo.com/ip3/be799583.ea.elliemae.net.ico",
     "slug": "encompass-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "93.27%",
-    "uptimeWeek": "96.68%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "96.67%",
     "uptimeMonth": "95.26%",
     "uptimeYear": "99.53%",
     "time": 209,
@@ -540,7 +540,8 @@
       "2026-08-22": 39,
       "2026-08-23": 33,
       "2026-08-24": 62,
-      "2026-08-25": 97
+      "2026-08-25": 97,
+      "2026-08-26": 0
     }
   },
   {
