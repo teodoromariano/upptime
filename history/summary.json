@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-10": 1389,
+      "2026-09-11": 51,
+      "2026-09-10": 1440,
       "2026-09-09": 1440,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
@@ -379,8 +380,7 @@
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
-      "2025-09-12": 1440,
-      "2025-09-11": 1440
+      "2025-09-12": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.29%",
     "time": 789,
-    "timeDay": 1517,
-    "timeWeek": 1074,
+    "timeDay": 1207,
+    "timeWeek": 1091,
     "timeMonth": 1091,
     "timeYear": 763,
     "dailyMinutesDown": {
@@ -474,10 +474,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
-    "timeDay": 1071,
-    "timeWeek": 884,
-    "timeMonth": 729,
-    "timeYear": 758,
+    "timeDay": 685,
+    "timeWeek": 841,
+    "timeMonth": 725,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   },
   {
@@ -492,9 +492,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 393,
-    "timeWeek": 382,
-    "timeMonth": 329,
+    "timeDay": 266,
+    "timeWeek": 359,
+    "timeMonth": 327,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -503,17 +503,17 @@
     "url": "https://BE799583.ea.elliemae.net",
     "icon": "https://icons.duckduckgo.com/ip3/be799583.ea.elliemae.net.ico",
     "slug": "encompass-production",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "93.30%",
-    "uptimeMonth": "95.25%",
-    "uptimeYear": "99.30%",
-    "time": 203,
-    "timeDay": 33,
-    "timeWeek": 149,
-    "timeMonth": 213,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "99.28%",
+    "time": 204,
+    "timeDay": 185,
+    "timeWeek": 158,
+    "timeMonth": 214,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2026-07-11": 50,
       "2026-07-12": 53,
@@ -549,7 +549,8 @@
       "2026-09-05": 255,
       "2026-09-06": 126,
       "2026-09-08": 267,
-      "2026-09-10": 0
+      "2026-09-11": 51,
+      "2026-09-10": 51
     }
   },
   {
@@ -564,10 +565,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 499,
-    "timeDay": 638,
-    "timeWeek": 545,
-    "timeMonth": 458,
-    "timeYear": 469,
+    "timeDay": 486,
+    "timeWeek": 499,
+    "timeMonth": 462,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2026-05-21": 211,
       "2026-06-10": 208,
