@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 81,
+      "2026-10-21": 116,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.29%",
     "time": 793,
-    "timeDay": 846,
-    "timeWeek": 1065,
+    "timeDay": 1050,
+    "timeWeek": 988,
     "timeMonth": 1290,
     "timeYear": 779,
     "dailyMinutesDown": {
@@ -474,8 +474,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 670,
-    "timeWeek": 569,
+    "timeDay": 710,
+    "timeWeek": 540,
     "timeMonth": 727,
     "timeYear": 755,
     "dailyMinutesDown": {}
@@ -492,8 +492,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 309,
-    "timeWeek": 245,
+    "timeDay": 422,
+    "timeWeek": 235,
     "timeMonth": 324,
     "timeYear": 186,
     "dailyMinutesDown": {}
@@ -510,8 +510,8 @@
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.02%",
     "time": 205,
-    "timeDay": 201,
-    "timeWeek": 246,
+    "timeDay": 167,
+    "timeWeek": 253,
     "timeMonth": 206,
     "timeYear": 205,
     "dailyMinutesDown": {
@@ -565,24 +565,24 @@
     "url": "https://www.ask-cade2.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ask-cade2.com.ico",
     "slug": "ask-cade2-com-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.88%",
-    "time": 488,
-    "timeDay": 248,
-    "timeWeek": 351,
-    "timeMonth": 420,
-    "timeYear": 460,
+    "time": 489,
+    "timeDay": 499,
+    "timeWeek": 390,
+    "timeMonth": 431,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2026-05-21": 211,
       "2026-06-10": 208,
       "2026-09-03": 29,
       "2026-10-03": 83,
       "2026-10-02": 88,
-      "2026-10-21": 0
+      "2026-10-21": 34
     }
   }
 ]
